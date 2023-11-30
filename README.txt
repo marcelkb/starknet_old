@@ -1,0 +1,1 @@
+Example of an contract for deployment on starknet with cairo
